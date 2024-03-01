@@ -11,6 +11,7 @@ To run the app:
 Clone this repository to your local machine.
 Open the project in Xcode.
 Build and run the project on a simulator or a physical device running iOS.
+![Simulator Screen Shot - iPhone 14 Pro - 2024-03-01 at 12 48 08](https://github.com/KeerthanaGIT-ios/CalculatorSwiftUI/assets/121998019/9e59a5d8-dad3-41a1-a075-51b2a4b7309b)
 
 
 
